@@ -1,6 +1,6 @@
-public class holagit {
+public class Segundogit {
     public static void main (String[] args) throws Exception{
         System.out.println("hola git");
-        int 0 = 40;
     }
+     
 }
