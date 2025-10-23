@@ -7,8 +7,7 @@ public class Segundogit {
 
 
 
-        // hffh,,,
-        // ,kh
+        
     }
      
 }
